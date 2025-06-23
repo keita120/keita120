@@ -15,4 +15,8 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-![](https://github-readme-stats.vercel.app/api/top-langs?username=keita120)
+![](https://github-readme-stats.vercel.app/api/top-langs?username=keita120&show_icons=true&locale=en&layout=compact)
+
+![](https://skillicons.dev/icons?i=html,css,rails,mysql)
+![](https://skillicons.dev/icons?i=py,sklearn,tensorflow)
+![](https://skillicons.dev/icons?i=blender,unity)
